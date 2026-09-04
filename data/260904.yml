@@ -7,7 +7,7 @@ about:
   head: 49165d6
   archived: false
   latestVersion: v0.3.1
-  collectedAt: 2026-09-04T19:29:23Z
+  collectedAt: 2026-09-04T21:04:09Z
 timeline:
   created: 2023-03-31
   lastCommit: 2025-11-10
@@ -83,5 +83,63 @@ total:
   openIssue: 7
   commit: 2471
 ---
+path: /home/runner/.x-repo/github.com/chatchat-space/Langchain-Chatchat
+collectedAt: 2026-09-04T21:04:12Z
+loc:
+  Python:
+    code: 22586
+    comments: 1178
+    blanks: 3799
+    files: 281
+  JavaScript:
+    code: 1659
+    comments: 15
+    blanks: 117
+    files: 2
+  Toml:
+    code: 263
+    comments: 26
+    blanks: 41
+    files: 6
+  Sh:
+    code: 148
+    comments: 17
+    blanks: 41
+    files: 10
+  Svg:
+    code: 82
+    comments: 0
+    blanks: 0
+    files: 4
+  Makefile:
+    code: 53
+    comments: 13
+    blanks: 19
+    files: 1
+  Dockerfile:
+    code: 25
+    comments: 9
+    blanks: 9
+    files: 1
+  Css:
+    code: 1
+    comments: 7
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 12320
+    blanks: 3883
+    files: 107
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 2
+total:
+  code: 26484
+  comments: 13659
+  blanks: 7935
+  files: 415
 ---
 
