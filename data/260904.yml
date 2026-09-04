@@ -1,11 +1,13 @@
 about:
-  description: Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 
+  description:
+  |
+    Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 
   license: Apache-2.0
   homepage: 
   head: 49165d6
   archived: false
   latestVersion: v0.3.1
-  collectedAt: 2026-09-04T04:23:20Z
+  collectedAt: 2026-09-04T19:29:23Z
 timeline:
   created: 2023-03-31
   lastCommit: 2025-11-10
@@ -13,17 +15,17 @@ timeline:
 popularity:
   star: 38614
   watcher: 291
-  fork: 6268
+  fork: 6266
   release: 31
   contributor: 167
-  pullRequest: 264
+  pullRequest: 885
   issue: 4251
 language:
   Python: 990158
   Shell: 7542
   Makefile: 2855
   Dockerfile: 1264
-totalLine: 1001819
+totalBytes: 1001819
 recent:
   last30d:
     since: 2026-08-05
@@ -32,6 +34,14 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 4
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 4
+    closedIssue: 1
+    openIssue: 5
     commit: 0
   last90d:
     since: 2026-06-06
@@ -57,3 +67,21 @@ recent:
     closedIssue: 70
     openIssue: 5
     commit: 3
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 12
+    openPR: 19
+    closedIssue: 460
+    openIssue: 6
+    commit: 69
+total:
+  release: 31
+  mergedPR: 621
+  openPR: 19
+  closedIssue: 4244
+  openIssue: 7
+  commit: 2471
+---
+---
+
