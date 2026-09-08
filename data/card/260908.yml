@@ -5,13 +5,13 @@ about:
   head: 49165d6
   archived: false
   latestVersion: "v0.3.1"
-  collectedAt: 2026-09-08T01:45:45Z
+  collectedAt: 2026-09-08T04:37:16Z
 timeline:
   created: 2023-03-31
   lastCommit: 2025-11-10
   lastRelease: 2024-07-12
 popularity:
-  star: 38621
+  star: 38622
   watcher: 292
   fork: 6269
   release: 31
@@ -82,7 +82,7 @@ total:
   commit: 2471
 ---
 path: /home/runner/.x-repo/github.com/chatchat-space/Langchain-Chatchat
-collectedAt: 2026-09-08T01:45:52Z
+collectedAt: 2026-09-08T04:37:27Z
 loc:
   Python:
     code: 22586
