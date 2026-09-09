@@ -7,7 +7,7 @@ Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen �
 - **Latest release**: `v0.3.1` (2024-07-12)
 - **Last commit**: 2025-11-10
 - **License**: Apache-2.0
-- **Stars**: 38619 · **Forks**: 6269 · **Open issues**: 4252 · **Contributors**: 167
+- **Stars**: 38626 · **Forks**: 6269 · **Open issues**: 4252 · **Contributors**: 167
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/Langchain-Chatchat> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:34:48Z._
+_Last regenerated: 2026-09-09T04:41:39Z._
