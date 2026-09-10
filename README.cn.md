@@ -4,7 +4,7 @@
 
 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 
 
-![Langchain-Chatchat](https://repo.x-cmd.io/Langchain-Chatchat.svg)
+![Langchain-Chatchat](https://repo.x-cmd.io/Langchain-Chatchat.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install Langchain-Chatchat
 
 - **最新版本**: `v0.3.1` (2024-07-12)
 - **最近提交**: 2025-11-10
-- **发布时间**: 2024-07-12T15:23:05Z
 
 ## 流行度
 
-- **Star**: 38,631 · **Fork**: 6,267 · **开放 issue**: 4,253 · **贡献者**: 167
+- **Star**: 38,629 · **Fork**: 6,267 · **开放 issue**: 4,253 · **贡献者**: 167
 
 ## 累计统计
 
@@ -60,4 +59,4 @@ Langchain-Chatchat 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:25:04Z._
