@@ -36,7 +36,7 @@ Total: **24,817** lines of code across **303** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,628 · **Forks**: 6,267 · **Open issues**: 4,253 · **Contributors**: 167
+- **Stars**: 38,632 · **Forks**: 6,267 · **Open issues**: 4,253 · **Contributors**: 167
 
 ## Totals (cumulative)
 
@@ -62,4 +62,4 @@ Install metadata for Langchain-Chatchat lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:45:52Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:22:09Z._
