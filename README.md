@@ -4,7 +4,7 @@
 
 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 
 
-![Langchain-Chatchat](https://repo.x-cmd.io/Langchain-Chatchat.svg)
+[![x-cmd/install — Langchain-Chatchat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Langchain-Chatchat.svg)](https://x-cmd.com/install/Langchain-Chatchat)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **24,817** lines of code across **303** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,642 · **Forks**: 6,265 · **Open issues**: 4,252 · **Contributors**: 167
+- **Stars**: 38,643 · **Forks**: 6,266 · **Open issues**: 4,252 · **Contributors**: 167
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **24,817** lines of code across **303** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 1 | 3 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 4 | 2 | 3 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 6 | 3 | 4 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 7 | 23 | 4 | 0 |
-| 360d | 2025-09-23 | 0 | 2 | 8 | 70 | 4 | 3 |
-| last720d | 2024-09-28 | 0 | 10 | 20 | 438 | 5 | 64 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 1 | 3 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 4 | 2 | 3 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 6 | 3 | 4 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 7 | 23 | 4 | 0 |
+| 360d | 2025-09-25 | 0 | 2 | 8 | 70 | 4 | 3 |
+| last720d | 2024-09-30 | 0 | 9 | 20 | 434 | 5 | 64 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Langchain-Chatchat lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:45:58Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:00:10Z._
