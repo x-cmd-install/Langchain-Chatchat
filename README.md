@@ -4,7 +4,7 @@
 
 Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 
 
-[![x-cmd/install — Langchain-Chatchat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/Langchain-Chatchat.svg)](https://x-cmd.com/install/Langchain-Chatchat)
+[![x-cmd/install — Langchain-Chatchat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/Langchain-Chatchat.svg)](https://x-cmd.com/install/Langchain-Chatchat)
 
 ## Install
 
@@ -36,22 +36,22 @@ Total: **24,817** lines of code across **303** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,659 · **Forks**: 6,266 · **Open issues**: 4,253 · **Contributors**: 167
+- **Stars**: 38,663 · **Forks**: 6,267 · **Open issues**: 4,258 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 621 · **Open PRs**: 20 · **Closed issues**: 4247 · **Open issues**: 6 · **Commits**: 2471
+- **Releases**: 31 · **Merged PRs**: 621 · **Open PRs**: 20 · **Closed issues**: 4247 · **Open issues**: 11 · **Commits**: 2471
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 2 | 3 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 4 | 3 | 3 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 6 | 4 | 4 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 7 | 24 | 4 | 0 |
-| 360d | 2025-09-27 | 0 | 2 | 8 | 71 | 4 | 2 |
-| last720d | 2024-10-02 | 0 | 9 | 20 | 435 | 5 | 64 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 2 | 8 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 3 | 8 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 6 | 4 | 9 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 7 | 24 | 9 | 0 |
+| 360d | 2025-09-28 | 0 | 2 | 8 | 71 | 9 | 2 |
+| last720d | 2024-10-03 | 0 | 9 | 20 | 435 | 10 | 64 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Langchain-Chatchat lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:57:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:05:23Z._
