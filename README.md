@@ -36,7 +36,7 @@ Total: **24,817** lines of code across **303** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,717 · **Forks**: 6,247 · **Open issues**: 4,261 · **Contributors**: 167
+- **Stars**: 38,715 · **Forks**: 6,248 · **Open issues**: 4,261 · **Contributors**: 167
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **24,817** lines of code across **303** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 0 | 0 | 0 | 8 | 1 | 0 |
-| 90d | 2026-08-21 | 0 | 0 | 1 | 12 | 1 | 0 |
-| last180d | 2026-05-23 | 0 | 0 | 7 | 20 | 1 | 0 |
-| 360d | 2025-11-24 | 0 | 0 | 8 | 67 | 1 | 0 |
-| last720d | 2024-11-29 | 0 | 5 | 16 | 339 | 1 | 56 |
+| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 0 | 0 | 0 | 7 | 1 | 0 |
+| 90d | 2026-08-22 | 0 | 0 | 1 | 12 | 1 | 0 |
+| last180d | 2026-05-24 | 0 | 0 | 7 | 19 | 1 | 0 |
+| 360d | 2025-11-25 | 0 | 0 | 8 | 66 | 1 | 0 |
+| last720d | 2024-11-30 | 0 | 5 | 16 | 339 | 1 | 54 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Langchain-Chatchat lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:21:15Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:09:59Z._
